@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="pt-br">
+  
+   <head>
+   <meta charset="UTF-8"/>
+   <title>curriculo</title>
+   </head>
+
+<body>
+
+<h1> <i> José da Silva,22 anos. </i> </h1>
+<p> <a href="tel:+551140028922">(11)40028922</a> </p>        
+<p> <a href="mailto:jose@gmail.com">jose@gmail.com</a> </p>
+<p> Rua Manoel De Oliveira,98,Caucaia,06827187,Ceara-CE </p>  
+<hr>
+<h1> <i> Objetivo Profissional  </i> </h1> 
+
+<p> Promoção no trabalho </p>
+<hr/>
+
+<h1> <i> Experiências: </i> </h1>
+
+<p> <b> Fuplastic industria de comércio de plástico ltda: </b> </p>
+<p> Operador de máquina de cortar e dobrar chapas </p>
+<p> De 12/2023 até o momento </p>  
+
+<p> <b> Lima e Tasca prestação de serviços ltda: </b> </p>
+<p> Armazenista </p>
+<p> De 07/2023 até 11/23 </p>  
+
+<p> <b> Associação de moradores Parque Don Henrique 2: </b> </p>
+<p> Auxiliar de manuntenção predial </p>
+<p> De 10/2021 até 02/23 </p>  
+
+<hr/>
+
+<h1> <i> Formção acadêmica: </i> </h1>
+
+<p> <b> NR11 Operador de empilhadeira </b>,Senai Ricardo Lener </p>
+<p >08/2023-09/2023 </p>
+
+<p> <b> Programador de produção </b>,Senai Ricardo Lener <br>06/2021-09/2021 </p>
+
+<p> <b> Informática </b>,Senai Ricardo Lener </br> 05/2018-06/2018 </p>
+
+<p> <b> NR12 Segurança em máquinas e equipamentos </b>,Enap <br> 08/2023-09/2023 </p>
+
+<hr/>
+
+<h1> Habilidades </h1>
+
+<ul> 
+
+<li> Leitura e interpretação de desenho mecânico </li>
+<li> Metrologia </li>
+<li> Solda mig/tig </li>
+
+</ul>
+
+</body>
+</html>
+
